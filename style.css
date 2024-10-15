@@ -1,0 +1,13 @@
+table {
+    border-collapse: collapse;
+    font-size: 30px;
+}
+
+th,td {
+    border: 2px soilid salmon (229, 43, 74);
+    text-align: center;
+}
+
+th{
+    background-color: aqua;
+}
